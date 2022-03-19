@@ -1808,31 +1808,31 @@
     "@nodelib/fs.scandir" "2.1.5"
     fastq "^1.6.0"
 
-"@oracle-cx-commerce/accelerator-templates@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2faccelerator-templates/-/accelerator-templates-3.0.0.tgz#41e797d3d465339b224a3c90f39c503a003e3b4e"
-  integrity sha512-3TiOhA1nmmeVPrBijB1RDJIM65vtTG1ljN93Bi3vLGr1N0actLGn2KR+li+NMCsrW+msH1Xj2XnKAyzsYcU1Fg==
+"@oracle-cx-commerce/accelerator-templates@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2faccelerator-templates/-/accelerator-templates-3.1.0.tgz#a72114fff31e35256dab0d13d6cf86c81174c3b9"
+  integrity sha512-xuMsoqUdAs1ffIMJ0T7wrceyC/wXlTXeUiawPFhHGXxSlnIJARXLlmwl9xtCE2JoS1Fgz4XUurQXRTCzn9FfRw==
   dependencies:
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
-    "@oracle-cx-commerce/tools-util" "3.0.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
+    "@oracle-cx-commerce/tools-util" "3.1.0"
     fs-extra "9.1.0"
     yauzl "2.10.0"
 
-"@oracle-cx-commerce/actions@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2factions/-/actions-3.0.0.tgz#f145115e2748b7e14879d104e773d5f1a598ff44"
-  integrity sha512-BvXEDd4w0inqdHxr+NN4wHig3HexMKCmaZ7FMMa8jntg1sCSyYKzsM2SDLqfAo/RPbp9QjtogHnheYBpDKcWtw==
+"@oracle-cx-commerce/actions@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2factions/-/actions-3.1.0.tgz#c872ed4292e741f78bf659ffd615a519ff543264"
+  integrity sha512-6pd4O4e/Dwqi7zuo6/3z1O9rlMyePcP29MQs5jaH6aJY4tPFn2oYulLtY02AOr/xSn4SCWOKG61r32z9Frd/Tw==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/store" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/store" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     redux "4.0.5"
     redux-saga "1.1.3"
 
-"@oracle-cx-commerce/babel-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fbabel-config/-/babel-config-3.0.0.tgz#b11d57c9e931e8a6d6caab3c80c1fb975ccde163"
-  integrity sha512-pK7G3H2gWMy0SteFyt1H6akFF04mO4/I5GC47WmfHOpoZ46N+D2pAL3NSqRtFeqElbpBCyN3z6viXddXCEwmvg==
+"@oracle-cx-commerce/babel-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fbabel-config/-/babel-config-3.1.0.tgz#a53cb5a8ca66325b293fc87eb6ee0404a4036b45"
+  integrity sha512-Bbi+O3sx7kgQkgR8tWBDJ1oh+/odeiUhnvmaH4Ku9S0QAEfGdC6YaXvOh5lYBmZpeuSmWc7yXEmtbMw3nqVcqg==
   dependencies:
     "@babel/core" "7.14.5"
     "@babel/plugin-proposal-class-properties" "7.14.5"
@@ -1843,38 +1843,38 @@
     babel-plugin-transform-async-to-promises "0.8.15"
     babel-plugin-transform-react-remove-prop-types "0.4.24"
 
-"@oracle-cx-commerce/builder@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fbuilder/-/builder-3.0.0.tgz#562024d87a4032beeaf33b0f0948ccfe7f125089"
-  integrity sha512-2HhWBzYVO5L9RdX5GH0mF5PEZXTW4aIxUSWWZKOX1kCZtFPZVNDnCQZqAft7IGvHg3q2iUXCWuqBExCySfmdJA==
+"@oracle-cx-commerce/builder@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fbuilder/-/builder-3.1.0.tgz#47524b5ad1b397ad2387818a162f160c0dc2269b"
+  integrity sha512-Xu8pdBTSJCexnlauXfiHPMy+l07NCmUjQdeIcenY44YSO5avQzUIEa2TLSOoio9NlZNKUpjnZedVpcK0o5CWNw==
   dependencies:
     builtin-modules "3.2.0"
-    esbuild "0.14.2"
+    esbuild "0.14.19"
 
-"@oracle-cx-commerce/cli-shared@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcli-shared/-/cli-shared-3.0.0.tgz#e9c09f4174e1810c47f1f8f5aee70d55f79ef482"
-  integrity sha512-NZom6vsRNfZtjjbI17dONb1VF9nS/8T32fBZBTM43wm8hWFNm+DUwJ6kD6uzJNpFY7lpQvS6ZZDNI8t0UJis1g==
+"@oracle-cx-commerce/cli-shared@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcli-shared/-/cli-shared-3.1.0.tgz#a51f4b5932fe50da1ae29d82031fd322dc177b70"
+  integrity sha512-NRYApqCK9Pjd8V8k3Fa6hCRuFXbDP9Y+sVlqTwMPIl6AWOHIrRD7B+li3N40BowvzVIYf1cWIPGZ0a+AWUIfOw==
   dependencies:
-    "@oracle-cx-commerce/http-client" "3.0.0"
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
-    "@oracle-cx-commerce/tools-util" "3.0.0"
+    "@oracle-cx-commerce/http-client" "3.1.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
+    "@oracle-cx-commerce/tools-util" "3.1.0"
 
-"@oracle-cx-commerce/cli@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcli/-/cli-3.0.0.tgz#2e8c9b0b514aaf732fbec15d68b19fb925b893a9"
-  integrity sha512-zKmiLYz9b5y7Q7iM1yF8V8Vyxl2jNoPZf18KgTQP9ezuMr9aoC9D0Zxh+EMoWYoNLsw+PlBGHJky5+h1yDBAHQ==
+"@oracle-cx-commerce/cli@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcli/-/cli-3.1.0.tgz#ee7875bd8742a619c9012f1f5b5afc62f2cfbefb"
+  integrity sha512-dLxbvcRVpZW1UtAe/ZV0PKk1yIJDT8WqX8LQYmEpXit9VOwV/i5KdltFUVHozsNOf/0ZD66sUWuzBCRWG4UyzA==
   dependencies:
-    "@oracle-cx-commerce/accelerator-templates" "3.0.0"
-    "@oracle-cx-commerce/builder" "3.0.0"
-    "@oracle-cx-commerce/cli-shared" "3.0.0"
-    "@oracle-cx-commerce/express-app" "3.0.0"
-    "@oracle-cx-commerce/logger" "3.0.0"
-    "@oracle-cx-commerce/occ-metadata" "3.0.0"
-    "@oracle-cx-commerce/osf-config" "3.0.0"
-    "@oracle-cx-commerce/rollup-config" "3.0.0"
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
-    "@oracle-cx-commerce/tools-util" "3.0.0"
+    "@oracle-cx-commerce/accelerator-templates" "3.1.0"
+    "@oracle-cx-commerce/builder" "3.1.0"
+    "@oracle-cx-commerce/cli-shared" "3.1.0"
+    "@oracle-cx-commerce/express-app" "3.1.0"
+    "@oracle-cx-commerce/logger" "3.1.0"
+    "@oracle-cx-commerce/occ-metadata" "3.1.0"
+    "@oracle-cx-commerce/osf-config" "3.1.0"
+    "@oracle-cx-commerce/rollup-config" "3.1.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
+    "@oracle-cx-commerce/tools-util" "3.1.0"
     "@yarnpkg/lockfile" "1.1.0"
     archiver "5.2.0"
     builtin-modules "3.2.0"
@@ -1891,25 +1891,25 @@
     sprintf-js "1.1.2"
     yauzl "2.10.0"
 
-"@oracle-cx-commerce/commerce-utils@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcommerce-utils/-/commerce-utils-3.0.0.tgz#513bf810b257f6e3f771a95a8844c15c920dd8b2"
-  integrity sha512-3yQiz9O9IlSrocgFb6u3Ln37VEEjpqv/8NPaQzuNVE9QHQfvTBkDagjdait9YVPvSIPiwyBGAWpc6d89Sx8ojA==
+"@oracle-cx-commerce/commerce-utils@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fcommerce-utils/-/commerce-utils-3.1.0.tgz#447c9992e2d863a13eac460d0c43085a1da86870"
+  integrity sha512-VrNQN2HsSEuNbTDi1aaCeCy27DGUyO/+Gcb4cfsrY/hQMMDcGhsAQtFO9wtI/wj3zigZd8NvBcTcSL6XrJNWYg==
   dependencies:
     react "17.0.2"
 
-"@oracle-cx-commerce/dev@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fdev/-/dev-3.0.0.tgz#2768e78f60d58685de0a9d1fd8b3ebb9fb89e31b"
-  integrity sha512-cfWfUaLNbhDg/ES3gd9TNA4YGwm2m6BxbS70A4y8sMyCppKuBurP0a9eL4xscrhSXmW9TTmdaad06uHYKO3tuw==
+"@oracle-cx-commerce/dev@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fdev/-/dev-3.1.0.tgz#7e1621a070918da9181f4a34082e0b61acc4dbc3"
+  integrity sha512-pEg3dz3ivXQDlamFNm3CZF7fQo2OyFwO4QJ0px7WX1/J23e8hWM7N2ea+R7Tg0ZF3ck+06w0+p4gD4AAeieycQ==
   dependencies:
     "@commitlint/cli" "9.1.2"
-    "@oracle-cx-commerce/babel-config" "3.0.0"
-    "@oracle-cx-commerce/eslint-config" "3.0.0"
-    "@oracle-cx-commerce/prettier-config" "3.0.0"
-    "@oracle-cx-commerce/rollup-config" "3.0.0"
-    "@oracle-cx-commerce/stylelint-config" "3.0.0"
-    "@oracle-cx-commerce/test" "3.0.0"
+    "@oracle-cx-commerce/babel-config" "3.1.0"
+    "@oracle-cx-commerce/eslint-config" "3.1.0"
+    "@oracle-cx-commerce/prettier-config" "3.1.0"
+    "@oracle-cx-commerce/rollup-config" "3.1.0"
+    "@oracle-cx-commerce/stylelint-config" "3.1.0"
+    "@oracle-cx-commerce/test" "3.1.0"
     "@types/express" "4.17.2"
     "@types/jest" "24.0.25"
     "@types/node" "15.12.2"
@@ -1918,25 +1918,25 @@
     nodemon "2.0.13"
     rimraf "3.0.2"
 
-"@oracle-cx-commerce/endpoints@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fendpoints/-/endpoints-3.0.0.tgz#7ec69dc512e4b0a433acdd4b6393bc69c8482f3b"
-  integrity sha512-b1L0hAxlpbxa94/lMlYhPs9J65Ijnf7dM5D/8pvXhNqEOm4Zv6ip/LP/2DP58MgmZnOerCCVKLjqhKPT6NVdBQ==
+"@oracle-cx-commerce/endpoints@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fendpoints/-/endpoints-3.1.0.tgz#85f1ee2e6c35033c3610af6ff354b54eb6248880"
+  integrity sha512-PPYCH/9LfHQ+DP1EJSUaDu957r31f195fUOnESe785OGa/N8fh5d3CgpPlZGPWj+DmzzdH+IXNwg241KToFC8A==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/oce-endpoints" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
-    "@oracle-cx-commerce/wapi" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/oce-endpoints" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
+    "@oracle-cx-commerce/wapi" "3.1.0"
 
-"@oracle-cx-commerce/eslint-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2feslint-config/-/eslint-config-3.0.0.tgz#52ac3fe4cec8be5675c7c1d7b1a0d62854fe84f2"
-  integrity sha512-BwiN1+sxYwsX1KEkae9saNAP01hiCJEBriF3p9eInELhF+I9L5oNJYDYXyQgV/rw8rqyQLdkFz/q5FS86plYIA==
+"@oracle-cx-commerce/eslint-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2feslint-config/-/eslint-config-3.1.0.tgz#50923fca91239eb83b448b189ed9d5baa8c279b4"
+  integrity sha512-YTrVei1i8Yp8lBXbqsSTGmPNhsKqBxrNMGy+FUOr7oGBd90FP3cTujM9GWAZd3+TCXsftiOH5EZWzENyTVHesQ==
   dependencies:
     "@babel/core" "7.14.5"
     "@babel/eslint-parser" "7.16.3"
-    "@oracle-cx-commerce/eslint-plugin-osf" "3.0.0"
-    "@oracle-cx-commerce/prettier-config" "3.0.0"
+    "@oracle-cx-commerce/eslint-plugin-osf" "3.1.0"
+    "@oracle-cx-commerce/prettier-config" "3.1.0"
     eslint "8.4.0"
     eslint-config-prettier "8.3.0"
     eslint-plugin-import "2.25.3"
@@ -1949,23 +1949,23 @@
     eslint-plugin-unicorn "39.0.0"
     prettier "2.5.1"
 
-"@oracle-cx-commerce/eslint-plugin-osf@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2feslint-plugin-osf/-/eslint-plugin-osf-3.0.0.tgz#c5df276b3c234bd9c3a22e884dd710c2728e05ae"
-  integrity sha512-cU1iJU3yXzoYse+A7gJKtYICxv2ybhslJy41ghthz1D5bcE54TfTp/Pvysm0v4b6YJmJpLKhwleJ/iyuPWdb+w==
+"@oracle-cx-commerce/eslint-plugin-osf@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2feslint-plugin-osf/-/eslint-plugin-osf-3.1.0.tgz#cfe047f4b15cc517315c629d3edf7db4e6ef8f4e"
+  integrity sha512-0cQRT+0q7VhTn6ofRYZv7eQHQzOq2Iz+Twr7gipexpk1tQTEz7zfpNoqfqYf/8EGb/x4a+tdUbBHD/hYs6VTyw==
   dependencies:
     eslint "8.4.0"
 
-"@oracle-cx-commerce/express-app@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fexpress-app/-/express-app-3.0.0.tgz#77baa1d17f7174b31eb8509d2e4f109faf876e46"
-  integrity sha512-ekKD/KYoC1MXchtFSXpt0qBpf7mkorwc+nETncDKdUr8oInQbr1EV0Iv3fQO4FFBsw/Zyy9/M5nUueXldTlWTQ==
+"@oracle-cx-commerce/express-app@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fexpress-app/-/express-app-3.1.0.tgz#cd2d5b87ee9e3b6076837e47db6993d3da2f712e"
+  integrity sha512-Nl3iZR+zlAVjSIrJYxWWIZP/P/AljDJHDumJuxI0lMDx6DIWFRCt7J+dXvsDs+VFElikjB4ykJWvoKHI0A/C8g==
   dependencies:
-    "@oracle-cx-commerce/http-client" "3.0.0"
-    "@oracle-cx-commerce/logger" "3.0.0"
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
-    "@oracle-cx-commerce/tools-util" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/http-client" "3.1.0"
+    "@oracle-cx-commerce/logger" "3.1.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
+    "@oracle-cx-commerce/tools-util" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     escape-html "1.0.3"
     express "4.17.1"
     express-prom-bundle "6.3.5"
@@ -1976,19 +1976,19 @@
     reload "3.2.0"
     ua-parser-js "0.7.28"
 
-"@oracle-cx-commerce/fetchers@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ffetchers/-/fetchers-3.0.0.tgz#7704e60d2c3eae4876db921300d14c7a74e6ba0b"
-  integrity sha512-i35OhxSANmV0IaUSHldW5Ew1gthejENSx+PCaUoAA5zLg/mUrMp5zzqMD7+wg8FmGYn47FZLnnLHyMeQqbEYXQ==
+"@oracle-cx-commerce/fetchers@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ffetchers/-/fetchers-3.1.0.tgz#70faf5664bbef1e7ac16f063f8fc1d5be8fc22ac"
+  integrity sha512-HKEAv5aSvk5VMdXkLnYpmGqx5LBMIQHROjh+UXkAnGH2+k1ko3dyzt7iDcbdT3J7BPwDapZpG7h3utvov3GECg==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     react "17.0.2"
 
-"@oracle-cx-commerce/http-client@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fhttp-client/-/http-client-3.0.0.tgz#18bdf8dfb0dd2dfb5deed48a48addfac215592c4"
-  integrity sha512-McCkspih7u+iJFHgPShWMrciJsscpWAKQn6uzdHKd+DtdNR8ufJrqnErlPpjR2IMp4QtCk/97oRy2cgJHMmnOw==
+"@oracle-cx-commerce/http-client@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fhttp-client/-/http-client-3.1.0.tgz#490849f54951435925866290a21fb5a3c9f0fb41"
+  integrity sha512-gXMfG/4+vAvfIQOH0jCrWb1l4dXqYHZ9B7MQMKXXC3PKtSHEA8NcQdkAZEUSZQ1/SlE3yUTMbPolYE4pV8doCA==
   dependencies:
     cache-manager "3.1.0"
     http-cache-semantics "4.1.0"
@@ -1997,102 +1997,102 @@
     ip-address "6.3.0"
     node-fetch "2.6.1"
 
-"@oracle-cx-commerce/logger@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2flogger/-/logger-3.0.0.tgz#2ab71ec5308cd662f95cad06c2d847b180d503ec"
-  integrity sha512-j06ISRAIXBvfKxerJQlcIV29fdOfRFA6rinyro0GQhffONKrS0UZQDAoy/XEjMM+QzKis21rJIDbficNinQp5Q==
+"@oracle-cx-commerce/logger@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2flogger/-/logger-3.1.0.tgz#0f4d81c85097cb2b42ac83998ef972b6fea8450a"
+  integrity sha512-NZJ0mBq8Oy1itOOoaHMMv9UclTopmik7Tl9MqV4uA9mpPGrieEy2MMOlFua46qNB5qTsKvVEUub0/k//Wkr1Hw==
   dependencies:
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
     morgan "1.10.0"
     winston "3.3.3"
 
-"@oracle-cx-commerce/occ-metadata@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2focc-metadata/-/occ-metadata-3.0.0.tgz#ac5c3e4ae8a39a56141070b1f930ea1e66a16787"
-  integrity sha512-miwK0WtPxrJeeKqeIwVAfX7NpTRLiiwKZWTJDQvx5KlYMWdwmHt1wR1tgYTgR5HGWBQWhFQqKymWhkcYEIpHZg==
+"@oracle-cx-commerce/occ-metadata@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2focc-metadata/-/occ-metadata-3.1.0.tgz#9d41798b8bd69b5b83388d935e7006d9b5905fd6"
+  integrity sha512-WY6FOTRf0e/tkvwLivFwlVmR9lOeNm1pxwpXRlrROPxy8fEfMgzDGLA3Ih9dfbf8FcBLr38sV98WJQZo6Eh/Sg==
   dependencies:
-    "@oracle-cx-commerce/logger" "3.0.0"
+    "@oracle-cx-commerce/logger" "3.1.0"
 
-"@oracle-cx-commerce/oce-endpoints@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2foce-endpoints/-/oce-endpoints-3.0.0.tgz#077aee09123f2109e54c0337d3f99aaf526186cc"
-  integrity sha512-paSVDSlSN1gHEC0GX59oyfpcU1wJ5m6BsBmm1rFDT59wkw0v2D/4SJTarZ8M3IdItnpoK/Yk7ZeKOUiu8P25lw==
+"@oracle-cx-commerce/oce-endpoints@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2foce-endpoints/-/oce-endpoints-3.1.0.tgz#ad497860fe81662c6bbe4943a50a2931dcf2dd2f"
+  integrity sha512-Ph7l/N7Jpdru8F1OBuc5qofM56u2TOYUGFrfKj4MwT4CUUSRFE13G1/HnL+OBC0/qTEpRLUB8icXskjtCnimrw==
   dependencies:
-    "@oracle-cx-commerce/utils" "3.0.0"
-    "@oracle-cx-commerce/wapi" "3.0.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
+    "@oracle-cx-commerce/wapi" "3.1.0"
 
-"@oracle-cx-commerce/osf-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fosf-config/-/osf-config-3.0.0.tgz#6e469aab28dedf160332ba51a839e8633dfbd757"
-  integrity sha512-3fkEVa8NWVxqljAVQNbheWaqZr0M8gxWutGg9p1zjWfJ8lj16rGaKfT+UPSfU0O/kgg8gUFR3dw6gbmWeWfHqg==
+"@oracle-cx-commerce/osf-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fosf-config/-/osf-config-3.1.0.tgz#689d724db2817897268f35cb10f5ba6f891fb06b"
+  integrity sha512-9ve65ZyDzBqPi+yjn9bqt48968XZOqGsLd+7LceoR1waUnPbVFmctJ+Lnj2RvLq+pBFrEP4/HzOp22aCONlyIQ==
 
-"@oracle-cx-commerce/prettier-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fprettier-config/-/prettier-config-3.0.0.tgz#8924562d9231ed1e3beb1cef99f4cdbb025b586f"
-  integrity sha512-DLIbnLYl8LDrIhEOHUGNvqwBqcREhxTVsG8XJMeg4CQxll80V+62Ygapczz9+DKYFzYHTZzyRKBqviReW9xHFA==
+"@oracle-cx-commerce/prettier-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fprettier-config/-/prettier-config-3.1.0.tgz#ccaf1ebe1752ef3fa960e9429bd4f2972a46310e"
+  integrity sha512-tT5kUTTrt/sMvaBRt2x/UB5yS8/bFDnMbfgzZIqJoD02yq4SrSojaehdmrnDj2uN7IwZAFjXIVKLFATb83AMww==
 
-"@oracle-cx-commerce/react-app@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-app/-/react-app-3.0.0.tgz#fe6697e4441d0d9ef47808202bdd96f8a2cbdb75"
-  integrity sha512-nX+NFKfPMLNXzMpQBj2W6JfXww03C8to2kmoHDGfThYDk/ipp0EYWrcqTnt71wsuzawTjgG1Bbo2AIuYVJir1Q==
+"@oracle-cx-commerce/react-app@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-app/-/react-app-3.1.0.tgz#e9da37d2420a2ce74af3144a3b616e2cd24e0a3b"
+  integrity sha512-uT2YaUVrUIQ/sphoqfD+OdVPAsVi/n+/Gkbn4RdyAx/RPHbZ57fAdQMUziOiFNv+UkcgepwZE2Jgm2GR27ZdMQ==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/logger" "3.0.0"
-    "@oracle-cx-commerce/react-ui" "3.0.0"
-    "@oracle-cx-commerce/store" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
-    "@oracle-cx-commerce/wapi" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/logger" "3.1.0"
+    "@oracle-cx-commerce/react-ui" "3.1.0"
+    "@oracle-cx-commerce/store" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
+    "@oracle-cx-commerce/wapi" "3.1.0"
     node-fetch "2.6.1"
     react "17.0.2"
 
-"@oracle-cx-commerce/react-components@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-components/-/react-components-3.0.0.tgz#a79499c469a37f265d09e8ed2c78cb34deac9246"
-  integrity sha512-4f+P246FXMbS4UrD1nAZ3aAes85lCQqKvAjvbzCiZtqIuMRryPO+Q9+EkWCSi6W3n3V5sNIF3h9dP1cgwYp25A==
+"@oracle-cx-commerce/react-components@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-components/-/react-components-3.1.0.tgz#a8a32715ba69bbf57f89cfbf2f42c33f128a3e87"
+  integrity sha512-qh4OPcth5hpY1EqyT3YUA460c2vt+hIe1Q3fWcNMeIn53xJGs677Be0SDVhODOZJlyYF1/azeznLlYN9wpEV0Q==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/fetchers" "3.0.0"
-    "@oracle-cx-commerce/react-ui" "3.0.0"
-    "@oracle-cx-commerce/resources" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/fetchers" "3.1.0"
+    "@oracle-cx-commerce/react-ui" "3.1.0"
+    "@oracle-cx-commerce/resources" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     prop-types "15.7.2"
     react "17.0.2"
 
-"@oracle-cx-commerce/react-ui@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-ui/-/react-ui-3.0.0.tgz#4fe26cda2c7ad3c297a7c8941f85adfa79fc964a"
-  integrity sha512-G0PUH8pLJQR+PSfUGRch5ySZb0pTlE+SbZWfjqWKjBfkBACSOwZGpMtxY+Yn/h2JFmmlISYV5WMGTQpfS4R44w==
+"@oracle-cx-commerce/react-ui@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-ui/-/react-ui-3.1.0.tgz#bec63f6411df6d0f0ad8b9fc1e198765a4644d40"
+  integrity sha512-GPnn13hCMem0UWzNmBiw4auWfJYEbvPdKw2kZUatQOjvweKXnE0KkpJdL8ULVr7hezlYrzhlxwqgH2Ly1/oKyQ==
   dependencies:
-    "@oracle-cx-commerce/styles" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/styles" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     react "17.0.2"
     react-dom "17.0.2"
 
-"@oracle-cx-commerce/react-widgets@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-widgets/-/react-widgets-3.0.0.tgz#f37db4009a2accb8d1efc110d56d3b977c72c559"
-  integrity sha512-7hgEbfYkSD4rIKRcLwudyS5xH8vioRorncQJmmiMCToc1BdJnekiVQRAVywcUSqYzBB1mQckFSOmkoqvVJeX7Q==
+"@oracle-cx-commerce/react-widgets@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2freact-widgets/-/react-widgets-3.1.0.tgz#306e4866669419a0f71f5f2d22bb20702da83187"
+  integrity sha512-C2tPuqpwbDZRB7sb7sfiOHA+bSA5LqRUw+2gmGAHHGZYa+1n2GL/EjwCRNEjyXgv8MKJsFihKNTqxUIVYJMTKw==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/react-components" "3.0.0"
-    "@oracle-cx-commerce/react-ui" "3.0.0"
-    "@oracle-cx-commerce/resources" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/react-components" "3.1.0"
+    "@oracle-cx-commerce/react-ui" "3.1.0"
+    "@oracle-cx-commerce/resources" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     prop-types "15.7.2"
     react "17.0.2"
 
-"@oracle-cx-commerce/resources@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fresources/-/resources-3.0.0.tgz#50dfd3dcf93a1d06bc603fe4379fbcd9fa448068"
-  integrity sha512-DEvWp9im3EI4AUc4u2PaQKnfPJ1w7302McV/ThQ0Qv+bmImHCXBdNv1a3OVAeHgUJQwQZy7KdOJMDvkdwAJFhw==
+"@oracle-cx-commerce/resources@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fresources/-/resources-3.1.0.tgz#1d5b9a3ab04faeb9e08102c9c7ed34b89ba48f39"
+  integrity sha512-/l9oJTUq2M9rIkmCaav6ygE4iuQfqoddFjVeW2qk03MDNgmrjwgno1SbCiyz8UTAEOkDvusfaIRMszfWtmDrXQ==
 
-"@oracle-cx-commerce/rollup-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2frollup-config/-/rollup-config-3.0.0.tgz#ddef72e2e3486cce54d6d332ec17986556e9d96c"
-  integrity sha512-ibkb0rCahcoTVzW6WXwVtZFWWODpo03dO9HZd6LywbMXxhmlWmzkxckLpJj5Vx/1larZxQUAkOpPmztV0p/pMg==
+"@oracle-cx-commerce/rollup-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2frollup-config/-/rollup-config-3.1.0.tgz#600eea95b641297f0a9d34a5090b0ccb8997524b"
+  integrity sha512-e8fBhDM83jiqoi33/M8kAlQXtyqPAtF2d9jKWf5TolEnghJ8mfXySqRNTPF+e3JxZQygkbqZ/CsqDE0lGZ9Jyw==
   dependencies:
     "@babel/core" "7.14.5"
-    "@oracle-cx-commerce/babel-config" "3.0.0"
+    "@oracle-cx-commerce/babel-config" "3.1.0"
     "@rollup/plugin-babel" "5.3.0"
     "@rollup/plugin-commonjs" "19.0.2"
     "@rollup/plugin-json" "4.1.0"
@@ -2110,57 +2110,57 @@
     tslib "2.1.0"
     typescript "4.4.2"
 
-"@oracle-cx-commerce/store@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstore/-/store-3.0.0.tgz#24d9f941a8ac95dcccad0ec81961c34849adb9da"
-  integrity sha512-CnCu4EjryqQHXveQbHulwe0c1tvj7TWFz6WsTQys3gIBW3ERfai2em39ItF4r95p/AyD1ceBjvXE31/AuIu11Q==
+"@oracle-cx-commerce/store@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstore/-/store-3.1.0.tgz#4ad06cdce7428ac72479f61c7f2032076ee4f3ec"
+  integrity sha512-GW463pxvKkVMPFodE7haCk2Wg4O54URjvN2jdpxIfhWxbflKdsQsos+enLeTnVkWFmjRDgrHUZTMlIrGnsldfg==
   dependencies:
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
     "@redux-saga/core" "1.1.3"
     "@redux-saga/is" "1.1.2"
     redux "4.0.5"
     redux-saga "1.1.3"
 
-"@oracle-cx-commerce/stylelint-config@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstylelint-config/-/stylelint-config-3.0.0.tgz#a24ad07bfcb6861d11f12990281d33236eb61990"
-  integrity sha512-RXKe7hVb3nknm5/XmxDqXhB4qEUFObbhSl+GIJPCq4h+LRgi4hK+D8RXNkP7RN2zWkifb4LD0HRQG/fgxoMU9g==
+"@oracle-cx-commerce/stylelint-config@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstylelint-config/-/stylelint-config-3.1.0.tgz#d834c92e0b728c84f42a194ff410777edac5c389"
+  integrity sha512-OD0W9nhioqnO6I1BekHdTA0EibTUMAWUmxU61EGHDcxineL0pz1gpZd8g0NSKHlTttzGuTBJuJ6tYo9qP8R+XQ==
   dependencies:
     stylelint "14.1.0"
     stylelint-config-recommended "6.0.0"
 
-"@oracle-cx-commerce/styles@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstyles/-/styles-3.0.0.tgz#143b83ca38ac7b0f0e696433e8c783cf1a9cf097"
-  integrity sha512-gEuJXqtAZfXF+xkW1VgZS0qi/JBT9rEAjcy05WE8VlMInBTXRstu52RFALwxs7UKgX6poVTepkh+I78dTAn3pg==
+"@oracle-cx-commerce/styles@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fstyles/-/styles-3.1.0.tgz#a55557490f00a6bfb12072bd2a6cdb3612285d65"
+  integrity sha512-xcs97bGTIykoIpvgBxzoMxkVZgR+mwlmGt2ydWbQEWbyOSBUNPvl+rdB+SVRZbEt8WF5P/OqecDWOSvhmyM9ww==
   dependencies:
     modern-normalize "1.1.0"
 
-"@oracle-cx-commerce/subscribers@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fsubscribers/-/subscribers-3.0.0.tgz#bcde3bf30692aff2f57c7c58c48a851a834fa39c"
-  integrity sha512-gSr2yjlhfTCL4oX/9ePlpf6EcwsrtRHsp3GlIECffPGtMQSI207t7WpLaui/Wv46sU71vo1EYzLTD8TCbZ/AKQ==
+"@oracle-cx-commerce/subscribers@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fsubscribers/-/subscribers-3.1.0.tgz#0128837acb4c6d5a8c4a043683d5c144e1634b63"
+  integrity sha512-guPV5LMriM1G2lJ0mBgPJ7HtNzYU721uXrceRgC9Jx0/VVIOA7YHHSiO17katUsrnqgjhF5ebqn5iqnzoalcWA==
   dependencies:
-    "@oracle-cx-commerce/commerce-utils" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/commerce-utils" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
 
-"@oracle-cx-commerce/test@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftest/-/test-3.0.0.tgz#abd316570587ef7bedbda7b14eff22b626aa57e2"
-  integrity sha512-cIPOczFWZQiQbzIPL9+RNc8hW7GAJCt0QtdLqqsjLrQ0mOcIDD3DMS8VA1AWzMreun3kLpDWGxAigvP/8qp2ig==
+"@oracle-cx-commerce/test@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftest/-/test-3.1.0.tgz#8bcef353781fe3819e64e458a90f8eb0a90eebae"
+  integrity sha512-IPJRSHMZu8URpOqxe63vtduZwEV+vWgulnL9cxdYAxxOu6tyRl/TlDcJqB3hEbQtyjxotNen6vUsusk0LLtkaQ==
   dependencies:
-    "@oracle-cx-commerce/actions" "3.0.0"
-    "@oracle-cx-commerce/cli-shared" "3.0.0"
-    "@oracle-cx-commerce/endpoints" "3.0.0"
-    "@oracle-cx-commerce/http-client" "3.0.0"
-    "@oracle-cx-commerce/react-components" "3.0.0"
-    "@oracle-cx-commerce/react-ui" "3.0.0"
-    "@oracle-cx-commerce/react-widgets" "3.0.0"
-    "@oracle-cx-commerce/store" "3.0.0"
-    "@oracle-cx-commerce/subscribers" "3.0.0"
-    "@oracle-cx-commerce/tools-util" "3.0.0"
-    "@oracle-cx-commerce/utils" "3.0.0"
-    "@oracle-cx-commerce/wapi" "3.0.0"
+    "@oracle-cx-commerce/actions" "3.1.0"
+    "@oracle-cx-commerce/cli-shared" "3.1.0"
+    "@oracle-cx-commerce/endpoints" "3.1.0"
+    "@oracle-cx-commerce/http-client" "3.1.0"
+    "@oracle-cx-commerce/react-components" "3.1.0"
+    "@oracle-cx-commerce/react-ui" "3.1.0"
+    "@oracle-cx-commerce/react-widgets" "3.1.0"
+    "@oracle-cx-commerce/store" "3.1.0"
+    "@oracle-cx-commerce/subscribers" "3.1.0"
+    "@oracle-cx-commerce/tools-util" "3.1.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
+    "@oracle-cx-commerce/wapi" "3.1.0"
     "@testing-library/dom" "7.31.2"
     "@testing-library/jest-dom" "5.3.0"
     "@testing-library/react" "10.4.9"
@@ -2180,36 +2180,36 @@
     react-test-renderer "17.0.2"
     winston "3.3.3"
 
-"@oracle-cx-commerce/tools-i18n@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftools-i18n/-/tools-i18n-3.0.0.tgz#95b28819db9f63b49e8e6262e754ad2f67880a6c"
-  integrity sha512-GIholrUCyYWUvPkzMiYgCFN1iA8JYbVtjvwVcANU2BSIc6/3t+3auOJC5p/V8U/5eiP9HqwYlZcwspCl95iYAA==
+"@oracle-cx-commerce/tools-i18n@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftools-i18n/-/tools-i18n-3.1.0.tgz#02b92a0119e1ffc5f48dbe6e380c174380c211ca"
+  integrity sha512-4zmROBOU1LixNTkAM7kMocmP4ebjzJHmW7Ozaw+poQG1IE3vnwt7j0I+k4LYVmaXNm96x7RfAm+/rc0hXAt5uA==
   dependencies:
     fs-extra "9.1.0"
     os-locale "5.0.0"
     sprintf-js "1.1.2"
 
-"@oracle-cx-commerce/tools-util@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftools-util/-/tools-util-3.0.0.tgz#e3f6587e43cfc011095333c43f5831ee3695d51c"
-  integrity sha512-k6dFY7s/fjW7dLSP2/AESpQHgwZJ6G0YXNQjdjdxHAbwJIRqV51vrI4Q7hQ9KZaSw0h4K3uu9xVt/eJuxP3JLg==
+"@oracle-cx-commerce/tools-util@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2ftools-util/-/tools-util-3.1.0.tgz#e0d423f5e4135ca24149b70027366a599b5b6643"
+  integrity sha512-fFWB2SRfHidDeRcFLeRZarzbAbNgg19jjNMYXVxwQNaeQgUr2Yv1AFpiPAHmtTV9ifK+CCbyGUj0fy3psabnQQ==
   dependencies:
-    "@oracle-cx-commerce/http-client" "3.0.0"
-    "@oracle-cx-commerce/tools-i18n" "3.0.0"
+    "@oracle-cx-commerce/http-client" "3.1.0"
+    "@oracle-cx-commerce/tools-i18n" "3.1.0"
     fs-extra "9.1.0"
     yauzl "2.10.0"
 
-"@oracle-cx-commerce/utils@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2futils/-/utils-3.0.0.tgz#285b15c26d9aeba0139b89da82a4ef93b55952a6"
-  integrity sha512-hBVpNTlzFC3HLqFFMgwkf/6XaIcJhG5Z3KGJHuC/iyHN6F7YWkppM90Zc5Sj6E6DNoahThz3mQ0t/LvlOTK3RA==
+"@oracle-cx-commerce/utils@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2futils/-/utils-3.1.0.tgz#be95ee5e3d1f29b4a74b1bc5ba2a5dd95f4048bd"
+  integrity sha512-ic56pAJAEat7Gih709Tpu1RY0bo5CYPAUXuj8mHtqQnU7XJ69zYygSCl1u5bsqklpA9+P4VK+C9RFaqP8DlyDA==
 
-"@oracle-cx-commerce/wapi@3.0.0":
-  version "3.0.0"
-  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fwapi/-/wapi-3.0.0.tgz#b7247446c7a2b9ba52732db2d8d5750ac02a1a64"
-  integrity sha512-+Zvf5XuKWbtR8XC7iI1ZGdxlBEEY8a9UTMJ8S4JHc9Be7ssiNKLA0IQ5u6+4jgO0e7kQD3TB25AvwaCOLZDpEg==
+"@oracle-cx-commerce/wapi@3.1.0":
+  version "3.1.0"
+  resolved "https://pnpmprd-npmregistry.occa.us-phoenix-1.ocs.oraclecloud.com/@oracle-cx-commerce%2fwapi/-/wapi-3.1.0.tgz#c7bb0e16ea7abbc210ec7c0d2dc29823d54e182e"
+  integrity sha512-BufZwjJ+AwbEcyxDZce+XDKSBkBjEx3JjkRow7zsahvHMqGLlpkKSJtnPfUe0i0M7kcFl5esRnQ79QHbYXaeww==
   dependencies:
-    "@oracle-cx-commerce/utils" "3.0.0"
+    "@oracle-cx-commerce/utils" "3.1.0"
 
 "@redux-saga/core@1.1.3", "@redux-saga/core@^1.1.3":
   version "1.1.3"
@@ -4483,113 +4483,119 @@ es6-weak-map@^2.0.3:
     es6-iterator "^2.0.3"
     es6-symbol "^3.1.1"
 
-esbuild-android-arm64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-android-arm64/-/esbuild-android-arm64-0.14.2.tgz#256b7cf2f9d382a2a92a4ff4e13187587c9b7c6a"
-  integrity sha512-hEixaKMN3XXCkoe+0WcexO4CcBVU5DCSUT+7P8JZiWZCbAjSkc9b6Yz2X5DSfQmRCtI/cQRU6TfMYrMQ5NBfdw==
+esbuild-android-arm64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-android-arm64/-/esbuild-android-arm64-0.14.19.tgz#32b8a03366440018f40d5fee7608336a5e4ae718"
+  integrity sha512-5Mziv27+XaHXEizlDBkgzSbkYvAyPCwarmMHr5WYYjtM4oAz1DdIT+arZY1mW6M4/5pGPsmFCGyJ3UVXtgjtMw==
 
-esbuild-darwin-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-darwin-64/-/esbuild-darwin-64-0.14.2.tgz#891a59ce6bc3aded0265f982469b3eb9571b92f8"
-  integrity sha512-Uq8t0cbJQkxkQdbUfOl2wZqZ/AtLZjvJulR1HHnc96UgyzG9YlCLSDMiqjM+NANEy7/zzvwKJsy3iNC9wwqLJA==
+esbuild-darwin-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-darwin-64/-/esbuild-darwin-64-0.14.19.tgz#2c3e49b358a85328676298e327c158a936ecbd87"
+  integrity sha512-7AVoNnlLkU2Cm7yaJkPO3RxDwjbXR5pv6JQlnhUEjGdq2+anR235whUf9bJ77s3PgawLKN4bd/FiS+zTnrR5DA==
 
-esbuild-darwin-arm64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.2.tgz#ab834fffa9c612b2901ca1e77e4695d4d8aa63a2"
-  integrity sha512-619MSa17sr7YCIrUj88KzQu2ESA4jKYtIYfLU/smX6qNgxQt3Y/gzM4s6sgJ4fPQzirvmXgcHv1ZNQAs/Xh48A==
+esbuild-darwin-arm64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-darwin-arm64/-/esbuild-darwin-arm64-0.14.19.tgz#6eb8ea8d4dc161889ec5e4e66c2ec9719e9f46df"
+  integrity sha512-0th1UC7AwpUVjRAVbfrHeFMxAO4mHfj+ai+gkUmoTNmAZ2h5+wJM0la+9hEu7MtgE70NoX7c1m50PKJupFOk6A==
 
-esbuild-freebsd-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-freebsd-64/-/esbuild-freebsd-64-0.14.2.tgz#f7fc87a83f02de27d5a48472571efa1a432ae86d"
-  integrity sha512-aP6FE/ZsChZpUV6F3HE3x1Pz0paoYXycJ7oLt06g0G9dhJKknPawXCqQg/WMyD+ldCEZfo7F1kavenPdIT/SGQ==
+esbuild-freebsd-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-freebsd-64/-/esbuild-freebsd-64-0.14.19.tgz#1868e2182e5f8933d986e2ef26e983722b826557"
+  integrity sha512-RvEKE6qUAlT8HpICIcj73ebOpwoRLKVNBcJVmeYEsiIwtJf/Cc0TW/jQagwqe3s2Cw0Os+FBtB7azNW670zwLQ==
 
-esbuild-freebsd-arm64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-freebsd-arm64/-/esbuild-freebsd-arm64-0.14.2.tgz#bc8758420431106751f3180293cac0b5bc4ce2ee"
-  integrity sha512-LSm98WTb1QIhyS83+Po0KTpZNdd2XpVpI9ua5rLWqKWbKeNRFwOsjeiuwBaRNc+O32s9oC2ZMefETxHBV6VNkQ==
+esbuild-freebsd-arm64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-freebsd-arm64/-/esbuild-freebsd-arm64-0.14.19.tgz#fa853e4bc003ea81820776a7da94bf4f20007243"
+  integrity sha512-XIZKnLHwz4E18FOWi4bdl8CkV7HYxqHE8WS7j3HFw0+uJa6S0iCqDTz5QyQxxOxXbytQdKWAdB7zuU8k3KbrQA==
 
-esbuild-linux-32@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-32/-/esbuild-linux-32-0.14.2.tgz#0cc2dcd816d6d66e255bc7aeac139b1d04246812"
-  integrity sha512-8VxnNEyeUbiGflTKcuVc5JEPTqXfsx2O6ABwUbfS1Hp26lYPRPC7pKQK5Dxa0MBejGc50jy7YZae3EGQUQ8EkQ==
+esbuild-linux-32@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-32/-/esbuild-linux-32-0.14.19.tgz#adfb3f9bed5a28e30aa4d7771a77cb3c4aef2992"
+  integrity sha512-v1NBJjhYzJPJNrBzhiGGyM9N1rUsqLtyLPSnLldnvrWTC+OYgTbq2vItvzXKM6P36VpioFsPIIGe0FYI+z/lUg==
 
-esbuild-linux-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-64/-/esbuild-linux-64-0.14.2.tgz#c790f739aa75b15c153609ea3457153fbe4db93d"
-  integrity sha512-4bzMS2dNxOJoFIiHId4w+tqQzdnsch71JJV1qZnbnErSFWcR9lRgpSqWnTTFtv6XM+MvltRzSXC5wQ7AEBY6Hg==
+esbuild-linux-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-64/-/esbuild-linux-64-0.14.19.tgz#30a0066ff9293ae4b9a8ad4d4b4010b31db04260"
+  integrity sha512-DtnOiAo0Vc4elOxl8U6wRMRXEj7ZMVy1brlzGGS8ia1IzDoJce10+3y7yvhzJsTlYjIC2uZ1gfUadGSX+L1ZXg==
 
-esbuild-linux-arm64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-arm64/-/esbuild-linux-arm64-0.14.2.tgz#96858a1f89ad30274dec780d0e3dd8b5691c6b0c"
-  integrity sha512-RlIVp0RwJrdtasDF1vTFueLYZ8WuFzxoQ1OoRFZOTyJHCGCNgh7xJIC34gd7B7+RT0CzLBB4LcM5n0LS+hIoww==
+esbuild-linux-arm64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-arm64/-/esbuild-linux-arm64-0.14.19.tgz#0bd976ec6ac92962e67df6a8825b71d1039f3527"
+  integrity sha512-igp6q1r60mGgOnzOkFdfa7GueXdTtsUCdkKvnKi3GMHIartBwccIIT1KfmE3JUAKsCpmuu0Qn6m05Oje7fIftw==
 
-esbuild-linux-arm@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-arm/-/esbuild-linux-arm-0.14.2.tgz#03e193225afa9b1215d2ec6efe8edf0c03eeed6f"
-  integrity sha512-PaylahvMHhH8YMfJPMKEqi64qA0Su+d4FNfHKvlKes/2dUe4QxgbwXT9oLVgy8iJdcFMrO7By4R8fS8S0p8aVQ==
+esbuild-linux-arm@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-arm/-/esbuild-linux-arm-0.14.19.tgz#98d91bb47b758f7cd78122d65043bc588ca0392f"
+  integrity sha512-NAKn1k0sH7V1Qy2myC7DEwDKA6ZgHm9u0Iu8Sl3Ke+H9Mw4KN4/fxWa+NGaXc0s/qeM2zIz6OPc39UxREeu+jQ==
 
-esbuild-linux-mips64le@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-mips64le/-/esbuild-linux-mips64le-0.14.2.tgz#972f218d2cb5125237376d40ad60a6e5356a782c"
-  integrity sha512-Fdwrq2roFnO5oetIiUQQueZ3+5soCxBSJswg3MvYaXDomj47BN6oAWMZgLrFh1oVrtWrxSDLCJBenYdbm2s+qQ==
+esbuild-linux-mips64le@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-mips64le/-/esbuild-linux-mips64le-0.14.19.tgz#85579e946c7fe9d4c969e8cc1abc02fcd6b64230"
+  integrity sha512-fxqV/oe3uZYBWIwzYYX78qeMKoF+ovPCv5Y6OEBdw5bBvzhsY2SXHeMtedYSOAEtoUwQbPbRShXb1WpBLR/bTw==
 
-esbuild-linux-ppc64le@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.2.tgz#20b71622ac09142b0e523f633af0829def7fed6b"
-  integrity sha512-vxptskw8JfCDD9QqpRO0XnsM1osuWeRjPaXX1TwdveLogYsbdFtcuiuK/4FxGiNMUr1ojtnCS2rMPbY8puc5NA==
+esbuild-linux-ppc64le@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-ppc64le/-/esbuild-linux-ppc64le-0.14.19.tgz#5441f8e86c9fa20be4e97d070ced7d18d6d797a7"
+  integrity sha512-YbfC4HD4GbiwkojrAL3aXHzvuOfUZwUMQP5EoctsOQQ5yYlfYQkeXtE2KWaoc1uf9XHsmLaapkEOL4Y30rhPEg==
 
-esbuild-netbsd-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-netbsd-64/-/esbuild-netbsd-64-0.14.2.tgz#dbd6a25117902ef67aa11d8779dd9c6bca7fbe82"
-  integrity sha512-I8+LzYK5iSNpspS9eCV9sW67Rj8FgMHimGri4mKiGAmN0pNfx+hFX146rYtzGtewuxKtTsPywWteHx+hPRLDsw==
+esbuild-linux-s390x@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-linux-s390x/-/esbuild-linux-s390x-0.14.19.tgz#824478c5561835e0814fef98ae9376d5c27a3537"
+  integrity sha512-cjVGsJh+XAzWH/KmqaLcMKP7qP4WJJILmrn3AKVWhcNEYX/pfXFE6Gi1DIr/Wzp1j9cX+wA5xFCo4CJV0QPSSw==
 
-esbuild-openbsd-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-openbsd-64/-/esbuild-openbsd-64-0.14.2.tgz#3c5f199eed459b2f88865548394c0b77383d9ca4"
-  integrity sha512-120HgMe9elidWUvM2E6mMf0csrGwx8sYDqUIJugyMy1oHm+/nT08bTAVXuwYG/rkMIqsEO9AlMxuYnwR6En/3Q==
+esbuild-netbsd-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-netbsd-64/-/esbuild-netbsd-64-0.14.19.tgz#144db6a7d7a6f7c0665dfb08802ec7385a5280c1"
+  integrity sha512-tteQWdqq4u4BpP3CjpW1CpZbeIuAtdrKV0i0C0TrrL5T0d1DPiGjiNuqu1YsyCfSP44Umk5DT4GZD0kpEwNN1g==
 
-esbuild-sunos-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-sunos-64/-/esbuild-sunos-64-0.14.2.tgz#900a681db6b76c6a7f60fc28d2bfe5b11698641c"
-  integrity sha512-Q3xcf9Uyfra9UuCFxoLixVvdigo0daZaKJ97TL2KNA4bxRUPK18wwGUk3AxvgDQZpRmg82w9PnkaNYo7a+24ow==
+esbuild-openbsd-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-openbsd-64/-/esbuild-openbsd-64-0.14.19.tgz#7315464f4981acc21ba9f0f7ef1e303bba5f66f8"
+  integrity sha512-W6aQZlLkMHerQ6wKCR869pwkg5ohTUKNuhC8EBl9t6Cb8kv2KLWC8hG+477hksdeWMaVimu3pHvzCMVkBDIhmw==
 
-esbuild-windows-32@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.2.tgz#61e0ba5bd95b277a55d2b997ac4c04dfe2559220"
-  integrity sha512-TW7O49tPsrq+N1sW8mb3m24j/iDGa4xzAZH4wHWwoIzgtZAYPKC0hpIhufRRG/LA30bdMChO9pjJZ5mtcybtBQ==
+esbuild-sunos-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-sunos-64/-/esbuild-sunos-64-0.14.19.tgz#13f99b3b7ece52b0166a5375f89674cde1d635c9"
+  integrity sha512-FIsHunnUs6DqCYdkUNScxbdvjxIxW/33+4Kz6BNMekKPCqOKnXU/0xIaoRt7f798B4UI+ocx31hqSViRn37Qig==
 
-esbuild-windows-64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.2.tgz#6ab59ef721ff75c682a1c8ae0570dabb637abddb"
-  integrity sha512-Rym6ViMNmi1E2QuQMWy0AFAfdY0wGwZD73BnzlsQBX5hZBuy/L+Speh7ucUZ16gwsrMM9v86icZUDrSN/lNBKg==
+esbuild-windows-32@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-windows-32/-/esbuild-windows-32-0.14.19.tgz#5d2a46ec5bdb7a6a91146953dd3ac575beaa1a85"
+  integrity sha512-HY9k1v9LXFYicR4h4F6c04a4Ls7jp2MOAxDVRAofq4Exfx5oogskFSAl2vdRfhmtBYGE9TrGUSs4GUUuKTsfWQ==
 
-esbuild-windows-arm64@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.14.2.tgz#aca2a4f83d2f0d1592ad4be832ed0045fc888cda"
-  integrity sha512-ZrLbhr0vX5Em/P1faMnHucjVVWPS+m3tktAtz93WkMZLmbRJevhiW1y4CbulBd2z0MEdXZ6emDa1zFHq5O5bSA==
+esbuild-windows-64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-windows-64/-/esbuild-windows-64-0.14.19.tgz#8d5889a7370c84ef6d53c10535b022ab9c5864a2"
+  integrity sha512-qtDhyyCgHPjVQXNWQsfs5+dzqXeOkD58RmowUx7ps8prmkCfsSz6Uv0z0xgz04+S7ozng3+JSWHRc3JklpvLOg==
 
-esbuild@0.14.2:
-  version "0.14.2"
-  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.14.2.tgz#9c1e1a652549cc33e44885eea42ea2cc6267edc2"
-  integrity sha512-l076A6o/PIgcyM24s0dWmDI/b8RQf41uWoJu9I0M71CtW/YSw5T5NUeXxs5lo2tFQD+O4CW4nBHJXx3OY5NpXg==
+esbuild-windows-arm64@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild-windows-arm64/-/esbuild-windows-arm64-0.14.19.tgz#cbb66fa06143ec7fe5538b5aef904daaa1c69a0e"
+  integrity sha512-i1vTm6dwHCoXB+Dg2bmyr/DlJevA05nHem0QlKK4XmR0lGqJjOmmvNKyOEyXCYMBCSqnJKpg5bDBY3O1mRO8Cw==
+
+esbuild@0.14.19:
+  version "0.14.19"
+  resolved "https://registry.yarnpkg.com/esbuild/-/esbuild-0.14.19.tgz#d9cc016f3fa7affe705617126e3ed51791374324"
+  integrity sha512-aBbxc+wvD608wYlpKGtOjUGnhiM/0LLndrkVL8dYxIRb3I+lEBJ1w3i2A4rfd5z3Tf4IzJJ1c+HHliC02WQdJg==
   optionalDependencies:
-    esbuild-android-arm64 "0.14.2"
-    esbuild-darwin-64 "0.14.2"
-    esbuild-darwin-arm64 "0.14.2"
-    esbuild-freebsd-64 "0.14.2"
-    esbuild-freebsd-arm64 "0.14.2"
-    esbuild-linux-32 "0.14.2"
-    esbuild-linux-64 "0.14.2"
-    esbuild-linux-arm "0.14.2"
-    esbuild-linux-arm64 "0.14.2"
-    esbuild-linux-mips64le "0.14.2"
-    esbuild-linux-ppc64le "0.14.2"
-    esbuild-netbsd-64 "0.14.2"
-    esbuild-openbsd-64 "0.14.2"
-    esbuild-sunos-64 "0.14.2"
-    esbuild-windows-32 "0.14.2"
-    esbuild-windows-64 "0.14.2"
-    esbuild-windows-arm64 "0.14.2"
+    esbuild-android-arm64 "0.14.19"
+    esbuild-darwin-64 "0.14.19"
+    esbuild-darwin-arm64 "0.14.19"
+    esbuild-freebsd-64 "0.14.19"
+    esbuild-freebsd-arm64 "0.14.19"
+    esbuild-linux-32 "0.14.19"
+    esbuild-linux-64 "0.14.19"
+    esbuild-linux-arm "0.14.19"
+    esbuild-linux-arm64 "0.14.19"
+    esbuild-linux-mips64le "0.14.19"
+    esbuild-linux-ppc64le "0.14.19"
+    esbuild-linux-s390x "0.14.19"
+    esbuild-netbsd-64 "0.14.19"
+    esbuild-openbsd-64 "0.14.19"
+    esbuild-sunos-64 "0.14.19"
+    esbuild-windows-32 "0.14.19"
+    esbuild-windows-64 "0.14.19"
+    esbuild-windows-arm64 "0.14.19"
 
 escalade@^3.1.1:
   version "3.1.1"
