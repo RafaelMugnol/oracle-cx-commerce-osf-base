@@ -1,0 +1,41 @@
+{
+    "address": "/checkout-quote-payment-and-review",
+    "title": "Checkout Payment And Review",
+    "shortName": "checkout-quote-payment-and-review",
+    "defaultPage": true,
+    "settings": {
+      "displayName": "Checkout Quote Payment And Review"
+    },
+    "layout": [
+      {
+        "displayName": "Adaptive Region",
+        "width": 12,
+        "resources": {
+          "en": {
+            "displayName": "Adaptive Region"
+          }
+        },
+        "slot": "checkout-header-with-notification-device-slot",
+        "type": "header",
+        "structure": "slot"
+      },
+      {
+        "components": [
+          "checkout-progress-tracker",
+          "checkout-quote-review-order-container",
+          "checkout-quote-payments-container",
+          "back-to-top-link"
+        ],
+        "width": 12,
+        "type": "main"
+      },
+      {
+        "components": [
+          "footer"
+        ],
+        "width": 12,
+        "type": "footer"
+      }
+    ]
+  }
+  
