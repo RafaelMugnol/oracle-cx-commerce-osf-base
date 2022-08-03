@@ -7,17 +7,17 @@
     "esbuild": "node .occ/build.js"
   },
   "dependencies": {
-    "@oracle-cx-commerce/actions": "3.6.0",
-    "@oracle-cx-commerce/endpoints": "3.6.0",
-    "@oracle-cx-commerce/oce-endpoints": "3.6.0",
-    "@oracle-cx-commerce/occ-metadata": "3.6.0",
-    "@oracle-cx-commerce/react-app": "3.6.0",
-    "@oracle-cx-commerce/react-widgets": "3.6.0",
-    "@oracle-cx-commerce/subscribers": "3.6.0",
-    "@oracle-cx-commerce/commerce-utils": "3.6.0"
+    "@oracle-cx-commerce/actions": "3.7.0",
+    "@oracle-cx-commerce/endpoints": "3.7.0",
+    "@oracle-cx-commerce/oce-endpoints": "3.7.0",
+    "@oracle-cx-commerce/occ-metadata": "3.7.0",
+    "@oracle-cx-commerce/react-app": "3.7.0",
+    "@oracle-cx-commerce/react-widgets": "3.7.0",
+    "@oracle-cx-commerce/subscribers": "3.7.0",
+    "@oracle-cx-commerce/commerce-utils": "3.7.0"
   },
   "devDependencies": {
-    "@oracle-cx-commerce/rollup-config": "3.6.0"
+    "@oracle-cx-commerce/rollup-config": "3.7.0"
   },
   "occ": {
     "namespace": "occ.react",
